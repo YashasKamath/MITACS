@@ -4,14 +4,21 @@
 
 About the algorithm: Currently, this algorithm finds all such paths wherein a person walks from his current location to nearby bus stops, takes a bus, and goes no further ahead than when he starts becoming farther from the destination and gets down at the bus stop nearest to the destination and then walks again to the target location.
 
-Terms: 
+### Terms: 
 worstPath: This is the path related to worst-case scenario wherein the person has to walk entirely between source and destination
+
 printShortestPath (type of graph, source node, destination node, path): This is a function that finds the path between source and destination, with the undirected graph leading to walk path calculation and directed graph leading to bus path calculation
+
 walk_time: This refers to the time taken to walk from source to destination entirely. This acts as an upper bound for all our optimisation in the time domain.
+
 beforeWalkPath: This is the path of walk from source to the nearby bus stops.
+
 afterWalkPath: This is the path of walk from bus stop to the target.
+
 busPath: This refers to the intermediate path of bus between 2 bus stops closest to source and target seperately.
+
 initialWalk: The distance traveled through "beforeWalkPath".
+
 trip_id: Each bus follows a trajectory and and this trajectory itself is trip, which is essentially a vector of pair of stop_id and time of arrival of the bus at that stop.
 
     vector<string> worstPath;
