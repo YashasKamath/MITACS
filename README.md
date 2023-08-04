@@ -1,6 +1,6 @@
-### MITACS GRI Project on Developing Multimodal Transit Routing Algorithm, a combo of walk and bus modes of travel with a focus on optimising time taken to reach target from current location
+# MITACS GRI Project: Developing Multimodal Transit Routing Algorithm
 
-# Algorithm:
+## Algorithm:
 
 About the algorithm: Currently, this algorithm finds all such paths wherein a person walks from his current location to nearby bus stops, takes a bus, and goes no further ahead than when he starts becoming farther from the destination and gets down at the bus stop nearest to the destination and then walks again to the target location.
 
