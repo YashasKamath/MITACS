@@ -2,7 +2,7 @@
 
 ## Algorithm:
 
-About the algorithm: Currently, this algorithm finds all such paths wherein a person walks from his current location to nearby bus stops, takes a bus, and goes no further ahead than when he starts becoming farther from the destination and gets down at the bus stop nearest to the destination and then walks again to the target location.
+Currently, this algorithm finds all such paths wherein a person walks from his current location to nearby bus stops, takes a bus, and goes no further ahead than when he starts becoming farther from the destination and gets down at the bus stop nearest to the destination and then walks again to the target location.
 
 ### Terms: 
 worstPath: This is the path related to worst-case scenario wherein the person has to walk entirely between source and destination
