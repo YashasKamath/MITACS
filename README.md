@@ -21,6 +21,8 @@ initialWalk: The distance traveled through "beforeWalkPath".
 
 trip_id: Each bus follows a trajectory and and this trajectory itself is trip, which is essentially a vector of pair of stop_id and time of arrival of the bus at that stop.
 
+### Pseudocode:
+
     vector<string> worstPath;
 
     double walk_dist = printShortestPath("undirected", source_nearest_node, dest_nearest_node, worstPath);
