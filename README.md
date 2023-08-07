@@ -53,6 +53,10 @@ tripDetails: Map that maps the trip id to a vector of pair of stop id and arriva
 
 finalWalk: Distance travelled from the bus stop to the destination
 
+stopLatLonMap: Map that maps each stop to its corresponding pair of latitude and longitude
+
+haversineDistance(source_lat, source_lon, dest_lat, dest_lon): Accepts two locations' latitude and longitude values and finds the distance between them
+
 ### Pseudocode:
 
     vector<string> worstPath;
