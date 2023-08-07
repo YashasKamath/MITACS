@@ -1,0 +1,68 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_url,location_type,parent_station,wheelchair_boarding
+STATION_M140,10140,STATION MCGILL,45.504064,-73.571586,,1,,2
+32,10140,Station McGill,45.504064,-73.571586,http://www.stm.info/fr/infos/reseaux/metro/mcgill,0,STATION_M140,2
+32-01,10140,Station McGill - Édicule Tour KPMG (D),45.504117,-73.571310,,2,STATION_M140,2
+32-02,10140,Station McGill - Édicule Union (A),45.504802,-73.571143,,2,STATION_M140,2
+32-03,10140,Station McGill - Édicule Ste-Catherine (C),45.504705,-73.570872,,2,STATION_M140,2
+32-04,10140,Station McGill - Édicule Robert-Bourassa (B),45.504393,-73.572132,,2,STATION_M140,2
+32-06,10140,Station McGill - Édicule De Maisonneuve (E),45.503450,-73.572045,,2,STATION_M140,2
+32-07,10140,Station McGill - Édicule McGill College (F),45.503460,-73.572359,,2,STATION_M140,2
+STATION_M142,10142,STATION PLACE DES ARTS,45.508220,-73.568433,,1,,1
+31,10142,Station Place-des-Arts,45.508220,-73.568433,http://www.stm.info/fr/infos/reseaux/metro/place-des-arts,0,STATION_M142,1
+31-01,10142,Station Place-des-Arts - Édicule Jeanne-Mance (A),45.508211,-73.568122,,2,STATION_M142,2
+31-02,10142,Station Place-des-Arts - Édicule De Bleury Nord (D),45.507254,-73.569391,,2,STATION_M142,1
+31-03,10142,Station Place-des-Arts - Édicule De Bleury Sud (C),45.507028,-73.568701,,2,STATION_M142,2
+31-04,10142,Station Place-des-Arts - Édicule UQAM (B),45.509251,-73.568071,,2,STATION_M142,2
+14-05,10254,Station Square-Victoria-OACI - Édicule Belmont (D),45.502357,-73.565113,,2,STATION_M254,2
+61825,61825,De Bleury / Mayor,45.506852,-73.568236,https://www.stm.info/fr/recherche#stq=61825,0,,2
+50111,50111,du Parc / Milton,45.509507,-73.573516,https://www.stm.info/fr/recherche#stq=50111,0,,1
+52365,52365,du Parc / Milton,45.509484,-73.573866,https://www.stm.info/fr/recherche#stq=52365,0,,1
+52368,52368,Sherbrooke / University,45.505109,-73.573484,https://www.stm.info/fr/recherche#stq=52368,0,,1
+52369,52369,Sherbrooke / Robert-Bourassa,45.504830,-73.573484,https://www.stm.info/fr/recherche#stq=52369,0,,1
+52384,52384,De Maisonneuve / Mansfield,45.502327,-73.573328,https://www.stm.info/fr/recherche#stq=52384,0,,1
+52397,52397,Peel / Sainte-Catherine,45.500010,-73.572691,https://www.stm.info/fr/recherche#stq=52397,0,,1
+52398,52398,Peel / Sainte-Catherine,45.500040,-73.573095,https://www.stm.info/fr/recherche#stq=52398,0,,1
+52399,52399,Sainte-Catherine / Peel,45.499893,-73.572949,https://www.stm.info/fr/recherche#stq=52399,0,,1
+52409,52409,Sherbrooke / Aylmer,45.505995,-73.572572,https://www.stm.info/fr/recherche#stq=52409,0,,1
+52412,52412,Station McGill (Robert-Bourassa / Président-Kenned,45.504430,-73.572240,https://www.stm.info/fr/recherche#stq=52412,0,,1
+52430,52430,Sherbrooke / Hutchison,45.507827,-73.571714,https://www.stm.info/fr/recherche#stq=52430,0,,1
+52433,52433,Station McGill (De Maisonneuve / Robert-Bourassa),45.504218,-73.571523,https://www.stm.info/fr/recherche#stq=52433,0,,1
+52434,52434,Sainte-Catherine / Mansfield,45.501221,-73.571640,https://www.stm.info/fr/recherche#stq=52434,0,,1
+52438,52438,du Président-Kennedy / Aylmer,45.505661,-73.571407,https://www.stm.info/fr/recherche#stq=52438,0,,1
+52439,52439,du Président-Kennedy / Aylmer,45.505745,-73.571114,https://www.stm.info/fr/recherche#stq=52439,0,,1
+52442,52442,Sherbrooke / De Bleury,45.508728,-73.571191,https://www.stm.info/fr/recherche#stq=52442,0,,1
+52443,52443,du Parc / Sherbrooke,45.508459,-73.571671,https://www.stm.info/fr/recherche#stq=52443,0,,1
+52444,52444,Sherbrooke / De Bleury,45.508188,-73.571251,https://www.stm.info/fr/recherche#stq=52444,0,,1
+52451,52451,Station McGill (Union / De Maisonneuve),45.504696,-73.571310,https://www.stm.info/fr/recherche#stq=52451,0,,1
+52458,52458,Sherbrooke / Jeanne-Mance,45.509484,-73.570859,https://www.stm.info/fr/recherche#stq=52458,0,,1
+52459,52459,Sherbrooke / Jeanne-Mance,45.509167,-73.570755,https://www.stm.info/fr/recherche#stq=52459,0,,1
+52474,52474,De Maisonneuve / City-Councillors,45.505842,-73.570268,https://www.stm.info/fr/recherche#stq=52474,0,,1
+52498,52498,Sainte-Catherine / Robert-Bourassa,45.503047,-73.569845,https://www.stm.info/fr/recherche#stq=52498,0,,1
+52499,52499,Robert-Bourassa / Sainte-Catherine,45.503361,-73.570056,https://www.stm.info/fr/recherche#stq=52499,0,,1
+52516,52516,Station Place-des-Arts (Président-Kennedy / De Ble,45.507629,-73.569486,https://www.stm.info/fr/recherche#stq=52516,0,,1
+52517,52517,Station Place-des-Arts (Président-Kennedy / De Ble,45.507283,-73.569604,https://www.stm.info/fr/recherche#stq=52517,0,,1
+52527,52527,Union / Sainte-Catherine,45.503783,-73.569406,https://www.stm.info/fr/recherche#stq=52527,0,,1
+52529,52529,René-Lévesque / Mansfield,45.500274,-73.569060,https://www.stm.info/fr/recherche#stq=52529,0,,1
+52530,52530,René-Lévesque / Mansfield,45.499943,-73.569002,https://www.stm.info/fr/recherche#stq=52530,0,,1
+52534,52534,Station Place-des-Arts (De Bleury / De Maisonneuve,45.507205,-73.569071,https://www.stm.info/fr/recherche#stq=52534,0,,1
+52540,52540,Station Place-des-Arts,45.508539,-73.568669,https://www.stm.info/fr/recherche#stq=52540,0,,1
+52587,52587,René-Lévesque / Robert-Bourassa,45.502088,-73.567360,https://www.stm.info/fr/recherche#stq=52587,0,,1
+52588,52588,Robert-Bourassa / René-Lévesque,45.502238,-73.567732,https://www.stm.info/fr/recherche#stq=52588,0,,1
+52608,52608,De Bleury / Sainte-Catherine,45.506338,-73.567151,https://www.stm.info/fr/recherche#stq=52608,0,,1
+52625,52625,Place du Frère-André,45.503222,-73.566501,https://www.stm.info/fr/recherche#stq=52625,0,,1
+52626,52626,René-Lévesque / du Beaver Hall,45.502845,-73.566273,https://www.stm.info/fr/recherche#stq=52626,0,,1
+52627,52627,Basilique St-Patrick (R.-Lévesque / St-Alexandre),45.503774,-73.565648,https://www.stm.info/fr/recherche#stq=52627,0,,1
+52666,52666,Robert-Bourassa / De La Gauchetière,45.500859,-73.565003,https://www.stm.info/fr/recherche#stq=52666,0,,1
+52669,52669,du Beaver Hall / Belmont,45.502481,-73.565254,https://www.stm.info/fr/recherche#stq=52669,0,,1
+52670,52670,Saint-Urbain / Sainte-Catherine,45.508736,-73.564999,https://www.stm.info/fr/recherche#stq=52670,0,,1
+52679,52679,De Bleury / René-Lévesque,45.505297,-73.564967,https://www.stm.info/fr/recherche#stq=52679,0,,1
+52697,52697,René-Lévesque / Jeanne-Mance,45.505878,-73.564397,https://www.stm.info/fr/recherche#stq=52697,0,,1
+52732,52732,Robert-Bourassa / Viger,45.499932,-73.564146,https://www.stm.info/fr/recherche#stq=52732,0,,1
+53918,53918,René-Lévesque / Union,45.502309,-73.566770,https://www.stm.info/fr/recherche#stq=53918,0,,1
+54001,54001,Metcalfe / Sainte-Catherine,45.500726,-73.572429,https://www.stm.info/fr/recherche#stq=54001,0,,1
+59314,59314,Sherbrooke / Aylmer,45.505984,-73.572871,https://www.stm.info/fr/recherche#stq=59314,0,,1
+60713,60713,Metcalfe / du Square Dorchester,45.500367,-73.571624,https://www.stm.info/fr/recherche#stq=60713,0,,1
+60745,60745,Robert-Bourassa / De La Gauchetière,45.500737,-73.565527,https://www.stm.info/fr/recherche#stq=60745,0,,1
+61049,61049,Jeanne-Mance / du Président-Kennedy,45.508638,-73.569153,https://www.stm.info/fr/recherche#stq=61049,0,,1
+61042,61042,Station Place-des-Arts (Président-Kennedy / Jeanne,45.508806,-73.568444,https://www.stm.info/fr/recherche#stq=61042,0,,1
+61108,61108,du Président-Kennedy / Saint-Urbain,45.509438,-73.567888,https://www.stm.info/fr/recherche#stq=61108,0,,1
