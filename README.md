@@ -1,4 +1,5 @@
-# MITACS GRI Project: Multimodal Transit Routing Algorithm
+
+#  MITACS GRI Project: Multimodal Transit Routing Algorithm
 
 ## Algorithm:
 
